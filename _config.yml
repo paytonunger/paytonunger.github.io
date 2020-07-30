@@ -48,7 +48,7 @@ analytics:
 author:
   name             : "Payton Unger"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I am a **Canadian** person."
+#  bio              : "I am a **Canadian** person."
   location         : "College Station, TX"
   email            : "paytonunger3@gmail.com"
   links:

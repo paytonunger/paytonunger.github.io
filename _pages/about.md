@@ -3,16 +3,8 @@ permalink: /about
 title: "Payton Unger"
 ---
 
-Hi, I'm Payton [Texas A&M University](https://tamu.edu). 
+### About Me
 
-### Interests
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- 
-### Past
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+I'm a student in the Class of '22 at [Texas A&M University](https://tamu.edu) studying statistics and pursuing a Master of Science in Finance degree, Class of '23. My aspiration for a career in finance is fueled by passions for informed decision making, responsible risk taking, and fostering crucial, constructive connections. I've learned that you cannot plan to have a successful career, but you can prepare for opportunities and accept them fiercely when they are presented to you. Part of my preparation is through this blog. I will be investigating all sides of sociopolitical and economic issues to build insight into the world and its intricacies. I hope that developing such a perspective -- one of awareness and broadmindedness -- will enhance my ability to analyze, empathize, and communicate, and I invite you to join me on my venture.
 
-### Recent Experience
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-### Let's Chat
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Aside from researching and writing for this page, I love starting my day with a peaceful walk, reading narrative non-fiction with fresh espresso (or tea) -- two of my must-reads are Factfulness by Hans Rosling and The Moment of Lift by Melinda Gates -- playing contemporary piano, and cooking and baking creative recipes, especially to share. I grew up in Calgary, AB, Canada until I was 16, when I moved to College Station, TX to finish high school living with my sister while she attended Texas A&M. I've been fortunate to have many international and independent experiences and hope to continue stepping out and exploring the world.
