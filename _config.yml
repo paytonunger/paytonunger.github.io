@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Canadian"
+title                    : "Undetermined Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Payton Unger"
@@ -48,7 +48,7 @@ analytics:
 author:
   name             : "Payton Unger"
   avatar           : "/assets/images/profile.jpg"
-#  bio              : "I am a **Canadian** person."
+  bio              : ""
   location         : "College Station, TX"
   email            : "paytonunger3@gmail.com"
   links:
