@@ -1,9 +1,8 @@
 ---
 permalink: /about
-title: "Payton Unger"
+title: "About Me"
 ---
 
-### About Me
 
 I'm a student in the Class of '22 at [Texas A&M University](https://tamu.edu) studying statistics and pursuing a Master of Science in Finance degree, Class of '23. My aspiration for a career in finance is fueled by passions for informed decision making, responsible risk taking, and fostering crucial, constructive connections. I've learned that you cannot plan to have a successful career, but you can prepare for opportunities and accept them fiercely when they are presented to you. Part of my preparation is through this blog. I will be investigating all sides of sociopolitical and economic issues to build insight into the world and its intricacies. I hope that developing such a perspective -- one of awareness and broadmindedness -- will enhance my ability to analyze, empathize, and communicate, and I invite you to join me on my venture.
 
