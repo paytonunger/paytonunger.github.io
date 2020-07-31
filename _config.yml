@@ -17,7 +17,7 @@ minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # Site Settings
 locale: "en-US"
 title: "The Rationale"
-title_separator: "-"
+title_separator: "|"
 subtitle: "A collection for contemplation."
 name: "Payton Unger"
 description: ""

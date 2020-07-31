@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 title: " "
 header:
-  image: /assets/images/mountain.jpg
+  image: /assets/images/london.jpg
   image_description: "A description of the image"
 ---
 
