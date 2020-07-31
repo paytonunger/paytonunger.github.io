@@ -1,6 +1,6 @@
 ---
-permalink: /posts
+layout: posts
+permalink: /posts/
 title: "Posts"
+author_profile: true
 ---
-
-Posts in order of most recent post date
