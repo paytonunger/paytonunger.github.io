@@ -56,7 +56,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:paytonunger3@gmail.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/paytonunger"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -78,7 +78,7 @@ footer:
   #    icon: "fab fa-fw fa-twitter-square"
   #    url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/paytonunger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
