@@ -2,6 +2,9 @@
 layout: single
 permalink: /about/
 title: About Me
+header:
+  image: /assets/images/trek.jpg
+  image_description: "A description of the image"
 ---
 
 <html>
