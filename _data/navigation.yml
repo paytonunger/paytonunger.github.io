@@ -6,5 +6,7 @@ main:
   url: /posts/
 - title: "Studio"
   url: /studio/
+- title: "Articles"
+  url: /articles/
 - title: "Search"
   url: /search/
