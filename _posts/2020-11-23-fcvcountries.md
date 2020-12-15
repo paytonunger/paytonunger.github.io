@@ -4,7 +4,7 @@ title: "Awaiting Publication: COVID-19 in FCV-Affected Countries"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 
-[![Refugee camp in Jordan](/assets/images/fcv.jpg "Zaatari refugee camp, Jordan by Foreign, Commonwealth & Development Office")](https://flic.kr/p/fHZeLC)
+[![Refugee camp in Jordan](/assets/images/fcv.JPG "Zaatari refugee camp, Jordan by Foreign, Commonwealth & Development Office")](https://flic.kr/p/fHZeLC)
 
 <html>
 <head>

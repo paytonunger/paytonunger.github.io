@@ -4,7 +4,7 @@ title: "Awaiting Publication: Upgrading Energy in Africa"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 
-[![Solar lighting and electricity in Tanzanian home](/assets/images/energy.jpg "Elizabeth Mukwimba, an M-Power solar customer in Tanzania by Russell Watkins, Department for International Development")](https://flic.kr/p/xUCSet)
+[![Solar lighting and electricity in Tanzanian home](/assets/images/energy.JPG "Elizabeth Mukwimba, an M-Power solar customer in Tanzania by Russell Watkins, Department for International Development")](https://flic.kr/p/xUCSet)
 
 <html>
 <head>

@@ -4,7 +4,7 @@ title: "Awaiting Publication: Public Development Banks Unite in First Global Ini
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 
-[![Climate march in London](/assets/images/pdb.jpg "Climate March 21/09/14 - 12 by Gary Knight")](https://flic.kr/p/p3ywBm)
+[![Climate march in London](/assets/images/pdb.JPG "Climate March 21/09/14 - 12 by Gary Knight")](https://flic.kr/p/p3ywBm)
 
 <html>
 <head>

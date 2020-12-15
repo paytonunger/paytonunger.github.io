@@ -4,7 +4,7 @@ title: "Awaiting Publication: Three Notes on Women’s Rights from Melinda Gates
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 
-[![Melinda Gates speaking with UN Women](/assets/images/gates.jpg "Planet 50-50 by 2030: Step It Up for Gender Equality by UN Women")](https://flic.kr/p/qCc9FF)
+[![Melinda Gates speaking with UN Women](/assets/images/gates.JPG "Planet 50-50 by 2030: Step It Up for Gender Equality by UN Women")](https://flic.kr/p/qCc9FF)
 
 <html>
 <head>
