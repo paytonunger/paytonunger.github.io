@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awaiting Publication: Public Development Banks Unite in First Global Initiative"
+title: "Articles: Public Development Banks Unite to Reach SDGs"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 

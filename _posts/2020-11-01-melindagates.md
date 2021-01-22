@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awaiting Publication: Three Notes on Women’s Rights from Melinda Gates"
+title: "Articles: 3 Notes on Women’s Rights from Melinda Gates"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 

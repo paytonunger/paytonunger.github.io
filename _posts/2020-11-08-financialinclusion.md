@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awaiting Publication: Opportunity for Financial Inclusion Amid COVID-19"
+title: "Articles: Opportunity for Financial Inclusion Amid COVID-19"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 

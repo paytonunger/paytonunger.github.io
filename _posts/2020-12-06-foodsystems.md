@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awaiting Publication: The Future of Food Systems"
+title: "Articles: The Future of Food Systems Around the Globe"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 

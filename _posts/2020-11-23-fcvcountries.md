@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Awaiting Publication: COVID-19 in FCV-Affected Countries"
+title: "Articles: The COVID-19 Crisis in FCV-Affected Countries"
 canonical_url: "https://yoursite.com/custom-canonical-url"
 ---
 
